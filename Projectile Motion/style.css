@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed&family=Quattrocento+Sans&display=swap');
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	width: 100%;
+	height: 100vh;
+}
+canvas {
+	background: rgb(58, 57, 57);
+}
+/* table{
+	transform:scale(0.4);
+	transform-origin: top right;
+	position:fixed;
+	top:30px;
+	right:30px;
+	background:rgb(61, 61, 61);
+	padding:5px;
+	border-radius: 10px;
+	box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.171);
+	color:white;
+	font-family: 'Quattrocento Sans', sans-serif;
+	transition:1s ease all;
+}
+
+th,td{
+ padding:7px 10px;
+ text-align: left;
+}
+th{
+	font-size: 20px;
+	font-weight: 100 !important;
+	padding:15px 20px;
+}
+#time{
+	border-radius: 10px;
+	border:0.1px solid rgb(108, 121, 126);
+}
+table:hover{
+	transform: scale(1);
+} */
